@@ -1,2 +1,0 @@
-# transitions
-Created with CodeSandbox
